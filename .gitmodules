@@ -1,0 +1,9 @@
+[submodule "esp"]
+	path = esp
+	url = https://github.com/cirelote/iamis-esp
+[submodule "backend"]
+	path = backend
+	url = https://github.com/cirelote/iamis-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/cirelote/iamis-frontend
